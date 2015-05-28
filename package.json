@@ -11,7 +11,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dj.js",
+    "discover": "node node_modules/rolling-spider/eg/discover.js"
   },
   "keywords": [],
   "author": "",
