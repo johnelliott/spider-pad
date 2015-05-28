@@ -1,0 +1,19 @@
+{
+  "name": "nodebots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "barcli": "0.0.11",
+    "johnny-five": "^0.8.76",
+    "rolling-spider": "git://github.com/FluffyJack/node-rolling-spider.git",
+    "temporal": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
